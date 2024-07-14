@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poppins:wght@500&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dark{
+  .slick-prev:before,
+  .slick-next:before {
+    color: white;
+}
+}
+.slick-prev:before,
+.slick-next:before {
+    color: orange;
+}
+
+body{
+  font-family: 'Poppins',sans-serif;
+  background-color: white;
+}
+@media (max-width: 640px) {
+  .custom-padding {
+     margin-top: 100px; 
+}
+}

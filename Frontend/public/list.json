@@ -1,0 +1,90 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos modi at tenetur",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?ga=GA1.1.791370118.1720720749&semt=sph"
+    },
+    {
+        "id":2,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos modi at tenetur",
+        "price":20,
+        "category":"horror",
+        "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?ga=GA1.1.791370118.1720720749&semt=sph"
+    },
+    {
+        "id":3,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos modi at tenetur",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?ga=GA1.1.791370118.1720720749&semt=sph"
+    },
+    {
+        "id":4,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos modi at tenetur",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?ga=GA1.1.791370118.1720720749&semt=sph"
+    },
+    {
+        "id":5,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos modi at tenetur",
+        "price":0,
+        "category":"fiction",
+        "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?ga=GA1.1.791370118.1720720749&semt=sph"
+    },
+    {
+        "id":6,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos modi at tenetur",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?ga=GA1.1.791370118.1720720749&semt=sph"
+    },
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos modi at tenetur",
+        "price":0,
+        "category":"comedy",
+        "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?ga=GA1.1.791370118.1720720749&semt=sph"
+    },
+    {
+        "id":8,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos modi at tenetur",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?ga=GA1.1.791370118.1720720749&semt=sph"
+    },
+    {
+        "id":9,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos modi at tenetur",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?ga=GA1.1.791370118.1720720749&semt=sph"
+    },
+    {
+        "id":10,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos modi at tenetur",
+        "price":0,
+        "category":"music",
+        "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?ga=GA1.1.791370118.1720720749&semt=sph"
+    },
+    {
+        "id":11,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos modi at tenetur",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?ga=GA1.1.791370118.1720720749&semt=sph"
+    }
+]
